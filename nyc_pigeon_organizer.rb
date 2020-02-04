@@ -44,7 +44,6 @@ end
 #   end
 #   new_hash
 # end
-©
 
 # iterate through pigeon data hash
 
